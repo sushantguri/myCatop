@@ -233,7 +233,7 @@ docker compose -f docker-compose.mac.yml up
 - Check out our [Contributing Guide](CONTRIBUTING.md) to get started with code or skins.
 - Read our [Code of Conduct](CODE_OF_CONDUCT.md).
 - Report security issues privately following our [Security Policy](SECURITY.md).
-- Search or open an issue on [GitHub Issues](https://github.com/sushantguri/myCatop/issues).
+- Search or open an issue on [GitHub Issues](https://github.com/yumiaura/myCat/issues).
 
 ### 📄 License
 

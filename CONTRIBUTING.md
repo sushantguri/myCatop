@@ -107,11 +107,11 @@ If something doesn't work, or you have an idea:
 ### 2. Fork & Clone
 ```bash
 # Fork the repository on GitHub, then clone your fork:
-git clone https://github.com/<your-username>/myCatop.git
-cd myCatop
+git clone https://github.com/<your-username>/myCat.git
+cd myCat
 
 # Add upstream remote
-git remote add upstream https://github.com/sushantguri/myCatop.git
+git remote add upstream https://github.com/yumiaura/myCat.git
 ```
 
 ### 3. Virtual Environment & Dependencies

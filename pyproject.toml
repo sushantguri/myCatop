@@ -39,10 +39,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sushantguri/myCatop"
-Repository = "https://github.com/sushantguri/myCatop"
-Issues = "https://github.com/sushantguri/myCatop/issues"
-Changelog = "https://github.com/sushantguri/myCatop/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/yumiaura/myCat"
+Repository = "https://github.com/yumiaura/myCat"
+Issues = "https://github.com/yumiaura/myCat/issues"
+Changelog = "https://github.com/yumiaura/myCat/blob/main/CHANGELOG.md"
 
 
 [dependency-groups]
